@@ -1,0 +1,24 @@
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color:#fff;
+
+}
+button{
+    width: 200px;
+    height: 45px;
+    background-color: transparent;
+    border:none;
+    border:1px solid blue;
+    cursor: pointer;
+
+}
+
+button a{
+    font-size: 18px;
+
+    font-weight: 400;
+    color:#fff;
+}
